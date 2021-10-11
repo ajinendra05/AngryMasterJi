@@ -23,6 +23,7 @@
 # Visual Studio cache directory
 .vs/
 .vscode/
+/.vscode/
 
 # Gradle cache directory
 .gradle/
@@ -54,7 +55,7 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
+#*.apk
 *.unitypackage
 
 # Crashlytics generated file
